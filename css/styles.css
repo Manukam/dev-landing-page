@@ -106,3 +106,19 @@ main > .tagline {
 	  max-width: 100%;
 	}
   }
+/* 
+.hover07  img {
+	-webkit-filter: blur(3px);
+	filter: blur(3px);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.hover07 figure:hover img {
+	-webkit-filter: blur(0);
+	filter: blur(0);
+} */
+
+.profile-pic img {
+	border-radius: 50%;
+	width: 200px;
+}
